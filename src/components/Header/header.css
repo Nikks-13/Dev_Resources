@@ -1,38 +1,73 @@
 .Container {
-  margin: auto;
-  padding: 300px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 30px;
+  padding-bottom: 10px;
   background-image: linear-gradient(
-    to right bottom,
-    #1e2b3d,
-    #1d2b41,
-    #1c2b44,
-    #1c2b48,
+    to bottom,
+    #30327f,
+    #273173,
+    #213066,
+    #1e2e59,
     #1d2b4b
   );
 }
 
 .HeaderInfo {
-  margin: auto;
+  margin-top: 40px;
+  margin-left: auto;
+  margin-right: auto;
   width: 80%;
-  padding-top: 200;
 }
 .Title {
-  margin: auto;
+  margin-left: auto;
+  margin-right: auto;
   font-family: "Roboto Slab", serif;
   text-align: center;
   font-weight: 700;
-  font-size: 80px;
+  font-size: 50px;
   color: white;
 }
 .SubTitle {
   text-align: center;
   font-family: "Roboto Slab", serif;
   font-weight: 500;
-  font-size: 40px;
+  font-size: 30px;
+  padding-top: 255px;
   color: white;
 }
 .imgtitle {
   max-width: 110px;
-  height: 90px;
+  height: 50px;
   vertical-align: middle;
+}
+.custom-shape-divider-bottom-1706102186 {
+  background-image: linear-gradient(
+    to top,
+    #1e2b3d,
+    #1d2b41,
+    #1c2b44,
+    #1c2b48,
+    #1d2b4b
+  );
+
+  position: relative;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  overflow: hidden;
+  line-height: 0;
+  margin-bottom: 60px;
+}
+.custom-shape-divider-bottom-1706102186 .shape-fill {
+  fill: #2a272a;
+}
+.LottieAnimation {
+  margin: auto;
+  height: 400px;
+  width: 400px;
+  position: absolute;
+  left: 50%;
+  top: 60px;
+  transform: translateX(-50%);
 }

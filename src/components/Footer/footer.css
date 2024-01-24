@@ -1,0 +1,11 @@
+.containerfooter{
+   height: 10vh;
+   background-image: linear-gradient(
+    to top,
+    #1e2b3d,
+    #1d2b41,
+    #1c2b44,
+    #1c2b48,
+    #1d2b4b
+  );
+}
