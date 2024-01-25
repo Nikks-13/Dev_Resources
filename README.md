@@ -1,4 +1,5 @@
 # Dev Resource
+![Screenshot](https://raw.githubusercontent.com/Nikks-13/Dev_Resources/main/screenshot/1.png)
 
 Dev Resource is a curated list of useful links for web and mobile app developers. Whether you're a beginner or an experienced developer, this collection includes resources that cover a wide range of topics to enhance your development skills.
 
@@ -15,7 +16,7 @@ Welcome to Dev Resource! This repository serves as a centralized hub for develop
 
 ## Getting Started
 
-To get started with Dev Resource, simply visit the website => ( )
+To get started with Dev Resource, simply visit the website => https://just-resources.netlify.app/ 
 
 ## Contributing
 
