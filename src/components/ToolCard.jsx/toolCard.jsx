@@ -5,8 +5,8 @@ const ToolCard = ({ tool }) => {
    <div className='containercard' >
     <div className='card'>
       <a className="link" href={tool.web_link} target='blank'>
-      <h1 className='title'>{tool.name} :</h1>
-      <h2 className='Desc'> {tool.desc}</h2></a>
+      <h1 className='title'>{tool.name} : </h1>
+      <h1 className='Desc'>&nbsp;{tool.desc}</h1></a>
     </div>
 
    </div>

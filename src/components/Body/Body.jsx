@@ -1,10 +1,10 @@
 import React from "react";
 import "./Body.css";
 import { tools } from "../../data/tools";
-import ToolCard from "../ToolCard.jsx/toolCard"; // Corrected the import statement
+import ToolCard from "../ToolCard.jsx/toolCard"; 
 
 const Body = () => {
-  // Group tools by category
+
   const toolsByCategory = tools.reduce((acc, tool) => {
     acc[tool.category] = [...(acc[tool.category] || []), tool];
     return acc;
