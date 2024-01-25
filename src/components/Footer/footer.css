@@ -3,9 +3,8 @@
    background-image: linear-gradient(
     to bottom,
     #1e2b3d,
-    #1d2b41,
-    #1c2b44,
-    #1c2b48,
+    #1d2b4b,
+    #1d2b4b,
     #1d2b4b
   );
 }
@@ -24,7 +23,7 @@
 
   text-align: center;
 padding-bottom: 30px;
-  color: rgb(205, 205, 205);
+  color: rgb(255, 255, 255);
   font-family: 'Caveat', cursive;
   font-weight: 200;
   font-size: 30px;

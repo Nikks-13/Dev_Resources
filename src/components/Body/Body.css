@@ -9,9 +9,9 @@
   .CatTitle{
     color: rgba(255, 255 , 255, 0.81);
     font-size: 28px;
-    font-weight: 600;
+    font-weight: 300;
     text-align: center;
-
+    font-family: 'Changa', sans-serif;
     
 
   }
