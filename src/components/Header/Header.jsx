@@ -15,7 +15,7 @@ const Header = () => {
         <div className="HeaderInfo">
           <h1 className="Title">
             Dev Resources{" "}
-            <img
+            <image
               className="imgtitle"
               src={require("../../assets/icons/codeSymbol.svg").default}
               alt="Image"

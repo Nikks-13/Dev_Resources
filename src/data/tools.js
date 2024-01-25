@@ -29,7 +29,7 @@ export const tools = [
     web_link: "https://patternpad.com/",
     icon: "",
     category: "User Interface",
-    desc: "Design beautiful patterns",
+    desc: "Design patterns",
   },
   {
     id: 4,
@@ -50,7 +50,7 @@ export const tools = [
   {
     id: 6,
     name: "CSS-Bud",
-    web_link: "",
+    web_link: "https://cssbud.com/",
     icon: "",
     category: "User Interface",
     desc: "CSS Generator",
@@ -93,7 +93,7 @@ export const tools = [
     web_link: "https://imagekit.io/",
     icon: "",
     category: "Illustrations / Images",
-    desc: "image and video optimizations",
+    desc: "Image Optimization ",
   },
   {
     id: 12,
@@ -125,7 +125,7 @@ export const tools = [
     web_link: "https://www.appicon.co/",
     icon: "",
     category: "Icons",
-    desc: "Free App Icon Generator",
+    desc: "App Icon Generator",
   },
   {
     id: 16,
@@ -133,7 +133,7 @@ export const tools = [
     web_link: "https://icon.kitchen/",
     icon: "",
     category: "Icons",
-    desc: "App Icon Generator/Editor",
+    desc: "App Icon Editor",
   },
   {
     id: 17,
@@ -181,6 +181,14 @@ export const tools = [
     web_link: "https://lottiefiles.com/",
     icon: "",
     category: "Animations",
-    desc: "Free animations for websites",
+    desc: "Animations for websites",
+  },
+  {
+    id: 24,
+    name: "Ape Tool",
+    web_link: "https://apetools.webprofusion.com/#/",
+    icon: "Icons",
+    category: "Icons",
+    desc: "Icon & Splash Generator",
   },
 ];

@@ -1,8 +1,4 @@
-.containercard{
 
-   gap: 20px;
-
-}
   
  
   .title {
@@ -25,7 +21,7 @@
   }
   
 .card{
-padding: 10px;
+padding-bottom: 15px;
 display: flex;
   justify-content: center;
   align-items: center;
@@ -38,7 +34,7 @@ display: flex;
   cursor: pointer;
   display: flex;
 align-content: center;
- max-width: 500px;
+ max-width: 700px;
 
 }
 
