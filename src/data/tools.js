@@ -138,7 +138,7 @@ export const tools = [
   {
     id: 17,
     name: "Vercel",
-    web_link: "",
+    web_link: "https://vercel.com",
     icon: "",
     category: "Free Hosting",
     desc: "Free Hosting",
