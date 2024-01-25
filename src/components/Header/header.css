@@ -83,3 +83,8 @@
   top: 60px;
   transform: translateX(-50%);
 }
+@media screen and (max-width: 500px) {
+  .Title{
+    font-size: 45px;
+  }
+}
